@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeet Trivedi\\source\\repos\\TestAIApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31CB7533-833F-4FFA-B261-7FE230FC16E3}|TestAIApp\\TestAIApp.csproj|c:\\users\\jeet trivedi\\source\\repos\\testaiapp\\testaiapp\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CB7533-833F-4FFA-B261-7FE230FC16E3}|TestAIApp\\TestAIApp.csproj|solutionrelative:testaiapp\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CB7533-833F-4FFA-B261-7FE230FC16E3}|TestAIApp\\TestAIApp.csproj|C:\\Users\\Jeet Trivedi\\source\\repos\\TestAIApp\\testaiapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CB7533-833F-4FFA-B261-7FE230FC16E3}|TestAIApp\\TestAIApp.csproj|solutionrelative:testaiapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CB7533-833F-4FFA-B261-7FE230FC16E3}|TestAIApp\\TestAIApp.csproj|C:\\Users\\Jeet Trivedi\\source\\repos\\TestAIApp\\testaiapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31CB7533-833F-4FFA-B261-7FE230FC16E3}|TestAIApp\\TestAIApp.csproj|solutionrelative:testaiapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Jeet Trivedi\\source\\repos\\TestAIApp\\TestAIApp\\ApiService.cs",
+              "RelativeDocumentMoniker": "TestAIApp\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Jeet Trivedi\\source\\repos\\TestAIApp\\TestAIApp\\ApiService.cs",
+              "RelativeToolTip": "TestAIApp\\ApiService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAEwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:15:32.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jeet Trivedi\\source\\repos\\TestAIApp\\TestAIApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestAIApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jeet Trivedi\\source\\repos\\TestAIApp\\TestAIApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TestAIApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA9wB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:08:13.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jeet Trivedi\\source\\repos\\TestAIApp\\TestAIApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TestAIApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jeet Trivedi\\source\\repos\\TestAIApp\\TestAIApp\\MainWindow.xaml",
+              "RelativeToolTip": "TestAIApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T20:08:13.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
